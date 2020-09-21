@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reto", "reto\reto.vcxproj", "{11E2C4FB-876E-4DA5-A987-69EC609FA532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Debug|ARM.ActiveCfg = Debug|ARM
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Debug|ARM.Build.0 = Debug|ARM
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Debug|x64.ActiveCfg = Debug|x64
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Debug|x64.Build.0 = Debug|x64
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Debug|x86.ActiveCfg = Debug|x86
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Debug|x86.Build.0 = Debug|x86
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Release|ARM.ActiveCfg = Release|ARM
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Release|ARM.Build.0 = Release|ARM
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Release|x64.ActiveCfg = Release|x64
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Release|x64.Build.0 = Release|x64
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Release|x86.ActiveCfg = Release|x86
+		{11E2C4FB-876E-4DA5-A987-69EC609FA532}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BFCF741-F2F3-4F3B-AE8E-36AE72AF56C9}
+	EndGlobalSection
+EndGlobal

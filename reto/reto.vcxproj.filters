@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="nrexit.cpp" />
+    <ClCompile Include="four1.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="nr.h" />
+    <ClInclude Include="nrtypes.h" />
+    <ClInclude Include="nrtypes_lib.h" />
+    <ClInclude Include="nrtypes_nr.h" />
+    <ClInclude Include="nrutil.h" />
+    <ClInclude Include="nrutil_mtl.h" />
+    <ClInclude Include="nrutil_nr.h" />
+    <ClInclude Include="nrutil_tnt.h" />
+    <ClInclude Include="nrutil_val.h" />
+    <ClInclude Include="print_array.h" />
+  </ItemGroup>
+</Project>
